@@ -41,11 +41,11 @@ body {
 }
 
 html {
-  font-family: "Crimson Text", Serif;
+  font-family: "Crimson Text", Serif, "Roboto", sans-serif, light;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Crimson Text", serif, "Roboto", sans-serif, light;
+  font-family: "Crimson Text", serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
