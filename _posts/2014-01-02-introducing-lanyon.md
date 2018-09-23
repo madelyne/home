@@ -1,10 +1,15 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: carmel-by-the-sea
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Towns with hyphenated names promise their visitors a few things: restaurants housed in faux-Tudor cottages, women in cap-sleeve dresses, secondhand stores with names like <em> deja new </em>. Californian towns -- stereotypically, as a non-Californian might imagine them -- imply avocado toast and independent coffee roasters and free yoga in the park. Carmel-by-the-Sea, three hours south of San Francisco, sits squarely in the intersection of both food groups. 
 
+I spent an afternoon in Carmel (the hyphens are dropped in conversation) over Memorial Day weekend, eating lunch and browsing two streets during that time. In that time, also, I established that the correct pronunciation of Carmel was neither of the two pronunciations of the name for boiled sugar (care-uh-mel, CAR-mull), but a punch CAR-MELL, like the abbreviated name of the university in Pittsburgh. 
+
+We ate lunch before bumming around the streets. The appetizerwe ordered was a seven-dollar knob of garlic, its papery husk roasted to a crisp. It sat in the middle of its plate like a rusty pearl. The cloves themselves melted on the tongue, and there was a drizzle of balsamic vinegar on the plate that we sopped up eagerly with our burnt garlic skins. We were determined to squeeze every cent out of the balsamic. The garlic, even roasted, was not a dollar. This was unspoken but acknowledged by all as we complimented the vinegar with undue vim. 
+
+The restaurant was on the second floor of a wooden structure swathed in old-growth trees. It called itself the Treehouse, but had none of the playful juvenilia its name suggested. 
 ### Built on Poole
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
